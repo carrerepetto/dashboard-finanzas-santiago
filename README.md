@@ -3,7 +3,7 @@
 
 Este proyecto es una app web creada con Streamlit para ayudarte a visualizar y controlar tus finanzas personales de manera clara y visual.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-finanzas-santiago.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-finanzas-santiago-zn3esefgdusywdfodn4gr3.streamlit.app)
 
 ---
 
